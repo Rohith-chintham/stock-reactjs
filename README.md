@@ -1,4 +1,4 @@
-git clone 
+git clone https://github.com/Rohith-chintham/stock-reactjs.git
 
 cd stock-reactjs
 
